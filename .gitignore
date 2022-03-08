@@ -1,0 +1,23 @@
+.DS_Store
+
+#VS Code workspace file
+.VScode
+
+#Python dotenv file
+.env
+
+#Python virtual enviorment 
+venv/
+
+#Python
+_pycache_/
+*.py[cod]
+*$py.class
+
+#R
+.Rproj.user
+.Rdata
+.Rhistory
+
+#enviorment file for AWS Beanstalk
+.bextensions/enviorment_variable.config
